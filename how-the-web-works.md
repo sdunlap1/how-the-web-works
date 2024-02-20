@@ -26,3 +26,11 @@
 - A header provides additional information about the request made or response given.
     - A request header would be `Host`, `User-Agent`, `Content-Type`. 
     - A response header would be `Last-Modified`, `Content-Type`, `Content-Encoding`.
+
+### What happens when you visit a website?
+- Request is sent.
+- DNS retrieves IP address and forwards to the server.
+- Header info is sent to the server.
+- Server responds and sends information back to the client.
+- Client browser interprets HTML, CSS, and Javascript and creates the webpage.
+
