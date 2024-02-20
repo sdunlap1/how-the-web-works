@@ -34,3 +34,7 @@
 - Server responds and sends information back to the client.
 - Client browser interprets HTML, CSS, and Javascript and creates the webpage.
 
+### Part Two
+1. Check out the pirate jokes: `curl` [https://icanhazdadjoke.com/search?term=pirate](https://icanhazdadjoke.com/search?term=pirate)
+2. `dig` icanhazdadjoke.com
+3. Simple web page served in python. &lt;h1&gt; Hello World &lt;/h1&gt;
